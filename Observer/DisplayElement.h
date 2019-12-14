@@ -1,0 +1,12 @@
+//
+// Created by y00455335 on 2019/12/9.
+//
+
+#ifndef HEADFIRSTDESIGNPATTERNS_DISPLAYELEMENT_H
+#define HEADFIRSTDESIGNPATTERNS_DISPLAYELEMENT_H
+class DisplayElement {
+public:
+    virtual void display() = 0;
+};
+
+#endif //HEADFIRSTDESIGNPATTERNS_DISPLAYELEMENT_H
